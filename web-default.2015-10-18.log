@@ -1,0 +1,490 @@
+[web] 00:00:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:02.310 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:02.769 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2465}
+[web] 00:00:12.770 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2466}
+[web] 00:00:22.771 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2467}
+[web] 00:00:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:00:32.772 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2468}
+[web] 00:00:42.773 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2469}
+[web] 00:00:52.775 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2470}
+[web] 00:01:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:02.776 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2471}
+[web] 00:01:12.778 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2472}
+[web] 00:01:22.779 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2473}
+[web] 00:01:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:01:32.780 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2474}
+[web] 00:01:42.781 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2475}
+[web] 00:01:52.783 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2476}
+[web] 00:02:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:02.784 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2477}
+[web] 00:02:12.785 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2478}
+[web] 00:02:22.786 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2479}
+[web] 00:02:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:02:32.787 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2480}
+[web] 00:02:42.788 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2481}
+[web] 00:02:52.790 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2482}
+[web] 00:03:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:02.790 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2483}
+[web] 00:03:12.791 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2484}
+[web] 00:03:22.792 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2485}
+[web] 00:03:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:03:32.793 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2486}
+[web] 00:03:42.794 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2487}
+[web] 00:03:52.795 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2488}
+[web] 00:04:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:02.796 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2489}
+[web] 00:04:12.797 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2490}
+[web] 00:04:22.798 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2491}
+[web] 00:04:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:04:32.799 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2492}
+[web] 00:04:42.799 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2493}
+[web] 00:04:52.800 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2494}
+[web] 00:05:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:02.801 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2495}
+[web] 00:05:12.802 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2496}
+[web] 00:05:22.803 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2497}
+[web] 00:05:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:05:32.805 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2498}
+[web] 00:05:42.806 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2499}
+[web] 00:05:52.807 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2500}
+[web] 00:06:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:02.808 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2501}
+[web] 00:06:12.810 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2502}
+[web] 00:06:22.811 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2503}
+[web] 00:06:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:06:32.811 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2504}
+[web] 00:06:42.812 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2505}
+[web] 00:06:52.813 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2506}
+[web] 00:07:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:02.815 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2507}
+[web] 00:07:12.816 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2508}
+[web] 00:07:22.817 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2509}
+[web] 00:07:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:07:32.818 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2510}
+[web] 00:07:42.819 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2511}
+[web] 00:07:52.820 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2512}
+[web] 00:08:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:02.820 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2513}
+[web] 00:08:12.821 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2514}
+[web] 00:08:22.822 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2515}
+[web] 00:08:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:08:32.824 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2516}
+[web] 00:08:42.824 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2517}
+[web] 00:08:52.825 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2518}
+[web] 00:09:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:02.826 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2519}
+[web] 00:09:12.827 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2520}
+[web] 00:09:22.827 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2521}
+[web] 00:09:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:09:32.828 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2522}
+[web] 00:09:42.829 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2523}
+[web] 00:09:52.830 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2524}
+[web] 00:10:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:10:02.156 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@5573b9b2
+[web] 00:10:02.161 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@6eab69ff
+[web] 00:10:02.162 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@336c8b2a
+[web] 00:10:02.162 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@66636199
+[web] 00:10:02.162 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@18cfc3d
+[web] 00:10:02.189 [HikariCP connection filler (pool HikariPool-0)] DEBUG HikariPool - After fill pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:02.733 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:10:02.733 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@4d14e561
+[web] 00:10:02.738 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@7368e338
+[web] 00:10:02.740 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@10ce80b0
+[web] 00:10:02.743 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@80453a2
+[web] 00:10:02.749 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@5dd89d5a
+[web] 00:10:02.776 [HikariCP connection filler (pool HikariPool-1)] DEBUG HikariPool - After fill pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:02.832 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2525}
+[web] 00:10:12.833 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2526}
+[web] 00:10:22.833 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2527}
+[web] 00:10:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:10:32.835 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2528}
+[web] 00:10:42.836 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2529}
+[web] 00:10:52.837 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2530}
+[web] 00:11:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:02.839 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2531}
+[web] 00:11:12.840 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2532}
+[web] 00:11:22.841 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2533}
+[web] 00:11:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:11:32.841 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2534}
+[web] 00:11:42.843 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2535}
+[web] 00:11:52.844 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2536}
+[web] 00:12:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:02.845 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2537}
+[web] 00:12:12.845 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2538}
+[web] 00:12:22.847 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2539}
+[web] 00:12:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:12:32.848 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2540}
+[web] 00:12:42.849 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2541}
+[web] 00:12:52.851 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2542}
+[web] 00:13:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:02.852 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2543}
+[web] 00:13:12.853 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2544}
+[web] 00:13:22.854 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2545}
+[web] 00:13:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:13:32.856 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2546}
+[web] 00:13:42.857 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2547}
+[web] 00:13:52.859 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2548}
+[web] 00:14:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:02.860 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2549}
+[web] 00:14:12.861 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2550}
+[web] 00:14:22.862 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2551}
+[web] 00:14:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:14:32.863 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2552}
+[web] 00:14:42.865 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2553}
+[web] 00:14:52.866 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2554}
+[web] 00:15:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:02.866 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2555}
+[web] 00:15:12.867 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2556}
+[web] 00:15:22.868 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2557}
+[web] 00:15:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:15:32.869 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2558}
+[web] 00:15:42.871 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2559}
+[web] 00:15:52.872 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2560}
+[web] 00:16:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:02.873 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2561}
+[web] 00:16:12.873 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2562}
+[web] 00:16:22.874 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2563}
+[web] 00:16:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:16:32.875 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2564}
+[web] 00:16:42.876 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2565}
+[web] 00:16:52.877 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2566}
+[web] 00:17:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:02.877 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2567}
+[web] 00:17:12.878 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2568}
+[web] 00:17:22.879 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2569}
+[web] 00:17:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:17:32.880 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2570}
+[web] 00:17:42.880 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2571}
+[web] 00:17:52.881 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2572}
+[web] 00:18:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:02.882 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2573}
+[web] 00:18:12.883 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2574}
+[web] 00:18:22.885 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2575}
+[web] 00:18:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:18:32.887 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2576}
+[web] 00:18:42.888 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2577}
+[web] 00:18:52.889 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2578}
+[web] 00:19:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:02.891 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2579}
+[web] 00:19:12.892 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2580}
+[web] 00:19:22.894 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2581}
+[web] 00:19:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:19:32.895 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2582}
+[web] 00:19:42.897 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2583}
+[web] 00:19:52.899 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2584}
+[web] 00:20:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:02.900 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2585}
+[web] 00:20:12.902 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2586}
+[web] 00:20:22.904 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2587}
+[web] 00:20:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:20:32.157 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@6760804e
+[web] 00:20:32.160 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@e68a738
+[web] 00:20:32.171 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@3635dc50
+[web] 00:20:32.171 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@6896fa44
+[web] 00:20:32.172 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@468c97fd
+[web] 00:20:32.193 [HikariCP connection filler (pool HikariPool-0)] DEBUG HikariPool - After fill pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:32.733 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:20:32.735 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@57293a0a
+[web] 00:20:32.738 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@13f2e8a6
+[web] 00:20:32.740 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@3af38b6b
+[web] 00:20:32.744 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@10255210
+[web] 00:20:32.744 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@78687844
+[web] 00:20:32.769 [HikariCP connection filler (pool HikariPool-1)] DEBUG HikariPool - After fill pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:20:32.905 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2588}
+[web] 00:20:42.906 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2589}
+[web] 00:20:52.908 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2590}
+[web] 00:21:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:02.909 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2591}
+[web] 00:21:12.911 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2592}
+[web] 00:21:22.913 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2593}
+[web] 00:21:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:21:32.914 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2594}
+[web] 00:21:42.916 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2595}
+[web] 00:21:52.917 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2596}
+[web] 00:22:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:02.919 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2597}
+[web] 00:22:12.921 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2598}
+[web] 00:22:22.922 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2599}
+[web] 00:22:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:22:32.924 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2600}
+[web] 00:22:42.925 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2601}
+[web] 00:22:52.927 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2602}
+[web] 00:23:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:02.929 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2603}
+[web] 00:23:12.930 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2604}
+[web] 00:23:22.932 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2605}
+[web] 00:23:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:23:32.933 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2606}
+[web] 00:23:42.935 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2607}
+[web] 00:23:52.937 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2608}
+[web] 00:24:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:02.938 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2609}
+[web] 00:24:12.939 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2610}
+[web] 00:24:22.941 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2611}
+[web] 00:24:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:32.804 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:24:32.942 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2612}
+[web] 00:24:42.943 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2613}
+[web] 00:24:52.945 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2614}
+[web] 00:25:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:02.946 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2615}
+[web] 00:25:12.947 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2616}
+[web] 00:25:22.949 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2617}
+[web] 00:25:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:25:32.950 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2618}
+[web] 00:25:42.951 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2619}
+[web] 00:25:52.952 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2620}
+[web] 00:26:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:02.953 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2621}
+[web] 00:26:12.955 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2622}
+[web] 00:26:22.957 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2623}
+[web] 00:26:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:26:32.958 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2624}
+[web] 00:26:42.960 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2625}
+[web] 00:26:52.961 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2626}
+[web] 00:27:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:02.962 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2627}
+[web] 00:27:12.963 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2628}
+[web] 00:27:22.964 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2629}
+[web] 00:27:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:27:32.965 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2630}
+[web] 00:27:42.967 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2631}
+[web] 00:27:52.968 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2632}
+[web] 00:28:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:02.970 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2633}
+[web] 00:28:12.971 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2634}
+[web] 00:28:22.972 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2635}
+[web] 00:28:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:28:32.974 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2636}
+[web] 00:28:42.976 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2637}
+[web] 00:28:52.977 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2638}
+[web] 00:29:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:02.979 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2639}
+[web] 00:29:12.980 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2640}
+[web] 00:29:22.981 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2641}
+[web] 00:29:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:29:32.983 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2642}
+[web] 00:29:42.984 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2643}
+[web] 00:29:52.985 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2644}
+[web] 00:30:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:02.987 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2645}
+[web] 00:30:12.988 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2646}
+[web] 00:30:22.989 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2647}
+[web] 00:30:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:30:32.991 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2648}
+[web] 00:30:42.992 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2649}
+[web] 00:30:52.993 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2650}
+[web] 00:31:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:02.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:31:02.158 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@663a75c8
+[web] 00:31:02.160 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@4867c890
+[web] 00:31:02.161 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@4d731824
+[web] 00:31:02.162 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@76fd58f4
+[web] 00:31:02.164 [HikariCP connection closer (pool HikariPool-0)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@48d321e5
+[web] 00:31:02.271 [HikariCP connection filler (pool HikariPool-0)] DEBUG HikariPool - After fill pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:02.733 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=0, inUse=0, avail=0, waiting=0)
+[web] 00:31:02.733 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@9424f6d
+[web] 00:31:02.735 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@147c9445
+[web] 00:31:02.737 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@7e05df76
+[web] 00:31:02.750 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@67ab1ae5
+[web] 00:31:02.751 [HikariCP connection closer (pool HikariPool-1)] DEBUG c.z.hikari.pool.PoolUtilities - Closing connection com.mysql.jdbc.JDBC4Connection@3e23bee7
+[web] 00:31:02.772 [HikariCP connection filler (pool HikariPool-1)] DEBUG HikariPool - After fill pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:02.994 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2651}
+[web] 00:31:12.996 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2652}
+[web] 00:31:22.997 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2653}
+[web] 00:31:32.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:32.156 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:32.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:31:32.998 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2654}
+[web] 00:31:42.999 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2655}
+[web] 00:31:53.001 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2656}
+[web] 00:32:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - Before cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:32:02.155 [Hikari Housekeeping Timer (pool HikariPool-0)] DEBUG HikariPool - After cleanup pool stats HikariPool-0 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:32:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - Before cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:32:02.732 [Hikari Housekeeping Timer (pool HikariPool-1)] DEBUG HikariPool - After cleanup pool stats HikariPool-1 (total=5, inUse=0, avail=5, waiting=0)
+[web] 00:32:03.001 [cluster-ClusterId{value='5621fc4f80737d1c470bde24', description='null'}-localhost:27017] DEBUG org.mongodb.driver.connection - Closing connection connectionId{localValue:2657}
+                                                                                                                                                                                                    
